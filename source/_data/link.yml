@@ -1,0 +1,8 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+        name: 吕程风的博客
+        link: https://anyview.fun/
+        avatar: https://makonike-blog.oss-cn-guangzhou.aliyuncs.com/blog/title/avatar1.png
+        descr: 博观而约取，厚积而薄发
