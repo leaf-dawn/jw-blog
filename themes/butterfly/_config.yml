@@ -14,8 +14,8 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   菜单||fas fa-list:
-     实验: /music/ || fas fa-music
-     分子对接: /movies/ || fas fa-video
+     实验: /experiment/ || #fas fa-music
+     分子对接: /CADD/ || #fas fa-video
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
@@ -54,14 +54,14 @@ disable_top_img: false
 index_img: https://img.fansqz.com/jw-blog/516664.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://img.fansqz.com/jw-blog/739912.jpg
+default_top_img: 
 
 # The banner image of archive page
 archive_img: https://img.fansqz.com/jw-blog/123036.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://img.fansqz.com/jw-blog/165017.jpg
+tag_img: 
 
 # The banner image of tag page
 # format:
@@ -70,7 +70,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: https://img.fansqz.com/jw-blog/516664.jpg
+category_img: 
 
 # The banner image of category page
 # format:
